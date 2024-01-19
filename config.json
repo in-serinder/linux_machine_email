@@ -1,5 +1,6 @@
 
-    "img_path": "",
+{
+    "img_path":"",
     "index_mail_viewimg": 4,
     "server": "smtp.163.com",
     "port": 465,
