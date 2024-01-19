@@ -1,0 +1,12 @@
+
+    "img_path": "",
+    "index_mail_viewimg": 4,
+    "server": "smtp.163.com",
+    "port": 465,
+    "senderemail": "",
+    "sender_password": "",
+    "imgdelpath": "",
+    "receiveremail": "",
+    "showstatusmessage":"False",
+    "showjsoninfo":"False"
+}
