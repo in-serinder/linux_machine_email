@@ -9,6 +9,8 @@ This program utilizes Linux command-line tools and pip third-party libraries dur
 **Linux tools used**
 ```
 date
+fswebcam
+scrot
 sensors
 awk
 arp-scan
